@@ -11,7 +11,7 @@ import SwiftUI
 struct QueComiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiaryListView()
         }
     }
 }
